@@ -16,9 +16,11 @@
 +mat_setvideomode 1440 1080 0 
 -panorama
 ```
+*Hint: The capitalized name in the option '+exec AUTOEXEC' should be the same name as the file name of your auto-execution.*
 
 ## Configs
-[Autoexec](https://github.com/OnlyOneCookie/Game-Configurations/blob/master/Files/onlyonecookieexec.cfg) `../Steam/steamapps/common/Counter-Strike: Global Offensive/cfg/`  
+[Auto-Execution](https://github.com/OnlyOneCookie/Game-Configurations/blob/master/Files/onlyonecookieexec.cfg)  
+↳ **Folder:** `../Steam/steamapps/common/Counter-Strike: Global Offensive/cfg/`  
 [Razer Blackwidow X Layout](https://github.com/OnlyOneCookie/Game-Configurations/blob/master/Files/csgo.RazerSynapse)
 
 ## Softwares
