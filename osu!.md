@@ -1,5 +1,5 @@
 # Information
-**Last update:** 5th July 2018
+**Last update:** 5th July 2018  
 **Version:** 1.0
 
 ## Wacom Intuos PT S Mapping
