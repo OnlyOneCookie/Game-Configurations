@@ -13,5 +13,5 @@
 **Windows:** 6/11 
 
 ## Available Game-Configurations
-- [Counter-Strike: Global Offensive](https://github.com/OnlyOneCookie/Game-Configurations/blob/master/Files/csgo.md)
-- [osu!](https://github.com/OnlyOneCookie/Game-Configurations/blob/master/Files/osu!.md)
+- [Counter-Strike: Global Offensive](https://github.com/OnlyOneCookie/Game-Configurations/blob/master/csgo.md)
+- [osu!](https://github.com/OnlyOneCookie/Game-Configurations/blob/master/osu!.md)
