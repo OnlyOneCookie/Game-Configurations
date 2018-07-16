@@ -1,6 +1,6 @@
 # Information
-**Last update:** 8th July 2018  
-**Version:** 1.1  
+**Last update:** 16th July 2018  
+**Version:** 1.1.1  
 
 ## Launch options
 ```
@@ -16,7 +16,11 @@
 +mat_setvideomode 1440 1080 0 
 -panorama
 ```
-*Hint: The capitalized name in the option '+exec AUTOEXEC' should be the same name as the file name of your auto-execution.*
+*Hint: The capitalized name in the option '+exec AUTOEXEC' should be the same name as the file name of your auto-execution.*  
+
+## Special options
+**In-Game resolution:** 1440x1080  
+**Scaling:** Black Bars  
 
 ## Configs
 [Auto-Execution](https://github.com/OnlyOneCookie/Game-Configurations/blob/master/Files/onlyonecookieexec.cfg)  
@@ -29,5 +33,6 @@
 ## Changelog
 Version | Description
 --- | ---
-1.1 | Sound fix which was caused by the new Panorama UI and some minor visual experience fix.
-1.0 | Initial version
+1.1.1 | Updated in-game sensitivity from 1.0 to 0.8 due to I changed my mouse polling rate from 125Hz to 500Hz.
+1.1.0 | Sound fix which was caused by the new Panorama UI and some minor visual experience fix.
+1.0.0 | Initial version
