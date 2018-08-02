@@ -90,7 +90,7 @@ Mouse Wheel Up / Down | Jump (Usefull for Bunnyhop)
 
 ## Configs
 [Auto-Execution](https://github.com/OnlyOneCookie/Game-Configurations/blob/master/Files/CSGO/onlyonecookieexec.cfg)  
-↳ **Folder:** `../Steam/steamapps/common/Counter-Strike: Global Offensive/cfg/` 
+↳ **Folder:** `../Steam/steamapps/common/Counter-Strike: Global Offensive/cfg/`  
 [Text Color Mod](https://github.com/OnlyOneCookie/Game-Configurations/blob/master/Files/CSGO/Previous-UI/csgo_onlyonecookiemod.txt) *Previous UI*  
 ↳ **Folder:** `../Steam/steamapps/common/Counter-Strike: Global Offensive/resource/`  
 [Text Color Mod](https://github.com/OnlyOneCookie/Game-Configurations/blob/master/Files/CSGO/Panorama-UI/csgo_onlyonecookiemod.txt) *Panorama UI*  
