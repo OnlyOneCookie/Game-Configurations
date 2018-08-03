@@ -1,6 +1,6 @@
 # Information
-**Last update:** 16th July 2018  
-**Version:** 1.1.1  
+**Last update:** 2nd August 2018  
+**Version:** 1.2.1  
 
 ## Launch options
 ```
@@ -10,7 +10,7 @@
 -novid 
 -refresh 144 
 -tickrate 128 
--language onlyonecookiemod 
+-language onlyonecookie 
 -nod3d9ex1 
 -nojoy 
 +mat_setvideomode 1440 1080 0
@@ -91,9 +91,7 @@ Mouse Wheel Up / Down | Jump (Usefull for Bunnyhop)
 ## Configs
 [Auto-Execution](https://github.com/OnlyOneCookie/Game-Configurations/blob/master/Files/CSGO/onlyonecookieexec.cfg)  
 ↳ **Folder:** `../Steam/steamapps/common/Counter-Strike: Global Offensive/cfg/`  
-[Text Color Mod](https://github.com/OnlyOneCookie/Game-Configurations/blob/master/Files/CSGO/Previous-UI/csgo_onlyonecookiemod.txt) *Previous UI*  
-↳ **Folder:** `../Steam/steamapps/common/Counter-Strike: Global Offensive/resource/`  
-[Text Color Mod](https://github.com/OnlyOneCookie/Game-Configurations/blob/master/Files/CSGO/Panorama-UI/csgo_onlyonecookiemod.txt) *Panorama UI*  
+[Text Color Mod](https://github.com/OnlyOneCookie/Game-Configurations/blob/master/Files/CSGO/csgo_onlyonecookie.txt)  
 ↳ **Folder:** `../Steam/steamapps/common/Counter-Strike: Global Offensive/resource/`  
 [Razer Blackwidow X Layout](https://github.com/OnlyOneCookie/Game-Configurations/blob/master/Files/csgo.RazerSynapse)
 
@@ -104,7 +102,8 @@ Mouse Wheel Up / Down | Jump (Usefull for Bunnyhop)
 ## Changelog
 Version | Description
 --- | ---
-1.2.0 | Added all configurations and tweaks (Previous UI and Panorama UI)
+1.2.1 | Fixed the own language file so that CSGO can read it well.</br>Removed the previous UI due to the Panorama is live now.
+1.2.0 | Added all configurations and tweaks (Previous UI and Panorama UI).
 1.1.2 | Reseted the in-game sensitivity from 0.8 to 1.0 due to I'm not feeling well with the lower sensitivity.</br>Removed the *-panorama* in the launch options.
 1.1.1 | Updated in-game sensitivity from 1.0 to 0.8 due to I changed my mouse polling rate from 125Hz to 500Hz.
 1.1.0 | Sound fix which was caused by the new Panorama UI and some minor visual experience fix.
