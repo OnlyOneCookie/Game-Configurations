@@ -1,6 +1,6 @@
 # Information
 **Last update:** 2nd August 2018  
-**Version:** 1.2.1  
+**Version:** 1.2.2  
 
 ## Launch options
 ```
