@@ -4,7 +4,7 @@
 
 ## Launch options
 ```
-+exec onlyonecookieexec 
++exec autoexec 
 -console 
 -high 
 -novid 
@@ -13,7 +13,8 @@
 -language onlyonecookie 
 -nod3d9ex1 
 -nojoy 
-+mat_setvideomode 1440 1080 0
++snd_use_hrtf 0 
+-no-browser
 ```
 *Hint: The capitalized name in the option '+exec AUTOEXEC' should be the same name as the file name of your auto-execution.*  
 
@@ -102,6 +103,7 @@ Mouse Wheel Up / Down | Jump (Usefull for Bunnyhop)
 ## Changelog
 Version | Description
 --- | ---
+1.2.2 | Added / Removed new commands
 1.2.1 | Fixed the own language file so that CSGO can read it well.</br>Removed the previous UI due to the Panorama is live now.
 1.2.0 | Added all configurations and tweaks (Previous UI and Panorama UI).
 1.1.2 | Reseted the in-game sensitivity from 0.8 to 1.0 due to I'm not feeling well with the lower sensitivity.</br>Removed the *-panorama* in the launch options.
