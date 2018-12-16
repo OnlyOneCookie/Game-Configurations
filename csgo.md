@@ -1,5 +1,5 @@
 # Information
-**Last update:** 2nd August 2018  
+**Last update:** 16th December 2018  
 **Version:** 1.2.2  
 
 ## Launch options
@@ -19,8 +19,8 @@
 *Hint: The capitalized name in the option '+exec AUTOEXEC' should be the same name as the file name of your auto-execution.*  
 
 ## Special options
-**In-Game resolution:** 1440x1080  
-**Scaling:** Black Bars  
+**In-Game resolution:** 1280x1024 
+**Scaling:** Black Bars 
 
 ## Keyboard, Arrow, Numpad and Mouse Layout (In-Game)
 ### Keyboard *(German Layout - QWERTZ)*
@@ -52,7 +52,7 @@ TAB | Scoreboard
 Caps-Lock | Clear details
 LEFT SHIFT | Walk
 LEFT CTRL | Crouch
-ALT | Bomb 
+ALT | Bomb
 SPACE | Jump
 F8 | Toggle Console
 
@@ -90,10 +90,12 @@ Mouse 5 | Quick Knife Weapon Switch
 Mouse Wheel Up / Down | Jump (Usefull for Bunnyhop)
 
 ## Configs
-[Auto-Execution](https://github.com/OnlyOneCookie/Game-Configurations/blob/master/Files/CSGO/onlyonecookieexec.cfg)  
-↳ **Folder:** `../Steam/steamapps/common/Counter-Strike: Global Offensive/cfg/`  
+[Auto-Execution](https://github.com/OnlyOneCookie/Game-Configurations/blob/master/Files/CSGO/autoexec.cfg)  
+↳ **Folder:** `../Steam/steamapps/common/Counter-Strike: Global Offensive/cfg/autoexec.cfg`  
 [Text Color Mod](https://github.com/OnlyOneCookie/Game-Configurations/blob/master/Files/CSGO/csgo_onlyonecookie.txt)  
-↳ **Folder:** `../Steam/steamapps/common/Counter-Strike: Global Offensive/resource/`  
+↳ **Folder:** `../Steam/steamapps/common/Counter-Strike: Global Offensive/resource/csgo_onlyonecookie.txt`  
+[Video Settings](https://github.com/OnlyOneCookie/Game-Configurations/blob/master/Files/CSGO/video.txt)  
+↳ **Folder:** `../Steam/userdata/STEAMID3/730/local/cfg/video.txt`  
 [Razer Blackwidow X Layout](https://github.com/OnlyOneCookie/Game-Configurations/blob/master/Files/csgo.RazerSynapse)
 
 ## Tweaks
