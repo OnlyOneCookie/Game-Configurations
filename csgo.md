@@ -1,6 +1,6 @@
 # Information
-**Last update:** 16th December 2018  
-**Version:** 1.2.2  
+**Last update:** 18th December 2018  
+**Version:** 2.0.0  
 
 ## Launch options
 ```
@@ -26,6 +26,11 @@
 ### Keyboard *(German Layout - QWERTZ)*
 Key | Action
 --- | ---
+1 | Bomb
+2 | Say "Bye..."
+3 | Say "Don't fuck me completed"
+4 | Say "xd"
+5 | Say "In germany we call this Schlampe"
 W | Forward
 A | Left
 S | Backward
@@ -52,7 +57,7 @@ TAB | Scoreboard
 Caps-Lock | Clear details
 LEFT SHIFT | Walk
 LEFT CTRL | Crouch
-ALT | Bomb
+ALT | Toggle Left- / Righthand
 SPACE | Jump
 F8 | Toggle Console
 
@@ -105,6 +110,7 @@ Mouse Wheel Up / Down | Jump (Usefull for Bunnyhop)
 ## Changelog
 Version | Description
 --- | ---
+2.0.0 | Slightly changed the HUD, crosshair, layout, network view, simple material and better sound settings.
 1.2.2 | Added / Removed new commands
 1.2.1 | Fixed the own language file so that CSGO can read it well.</br>Removed the previous UI due to the Panorama is live now.
 1.2.0 | Added all configurations and tweaks (Previous UI and Panorama UI).
