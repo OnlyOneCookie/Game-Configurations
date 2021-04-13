@@ -2,10 +2,10 @@
 
 ## Hardware
 **Monitor:** BenQ XL2411Z  
-**Mouse:** ZOWIE GEAR FK2  
-**Mousepad:** Razer Gigantus  
-**Keyboard:** Razer BlackWidow X Chroma  
-**Headset:** HyperX Cloud II  
+**Mouse:** Glorious Model O (Wireless)  
+**Mousepad:** ESL One Mousepad  
+**Keyboard:** Thermaltake Level 20 RBG  
+**Headset:** HyperX Cloud II (Wireless)  
 
 ## Mouse Settings
 **DPI:** 800  
@@ -15,3 +15,4 @@
 ## Available Game-Configurations
 - [Counter-Strike: Global Offensive](https://github.com/OnlyOneCookie/Game-Configurations/blob/master/csgo.md)
 - [osu!](https://github.com/OnlyOneCookie/Game-Configurations/blob/master/osu!.md)
+- [VALORANT](https://github.com/OnlyOneCookie/Game-Configurations/blob/master/valorant.md)
