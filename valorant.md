@@ -139,8 +139,9 @@ Outer Line Offset | 4
 Movement Error | on  
 Firing Error | on  
 
-### Preview
-![OnlyOneCookie | VALORANT | Crosshair Preview](https://youtu.be/r7lK1XJWlNI)
+### Preview (Video)
+[![OnlyOneCookie | VALORANT | Crosshair Preview](http://img.youtube.com/vi/r7lK1XJWlNI/0.jpg)](https://youtu.be/r7lK1XJWlNI)  
+*Click on the thumbnail to preview the crosshair.*
 
 ## Video
 ### General
