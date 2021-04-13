@@ -11,37 +11,41 @@
 -refresh 144 
 -tickrate 128 
 -language onlyonecookie 
--nod3d9ex1 
 -nojoy 
-+snd_use_hrtf 0 
--no-browser
 ```
 *Hint: The capitalized name in the option '+exec AUTOEXEC' should be the same name as the file name of your auto-execution.*  
 
-## Special options
-**In-Game resolution:** 1280x1024 
-**Scaling:** Black Bars 
+## Video and graphic settings
+**Resolution:** 1280x960  
+**Aspect Ratio:** 4:3  
+**Scaling:** Black Bars  
+**Refresh Rate:** 144hz  
 
 ## Keyboard, Arrow, Numpad and Mouse Layout (In-Game)
 ### Keyboard *(German Layout - QWERTZ)*
 Key | Action
 --- | ---
-1 | Bomb
-2 | Say "Bye..."
-3 | Say "Don't fuck me completed"
-4 | Say "xd"
-5 | Say "In germany we call this Schlampe"
+0 | Slot 10
+1 | He-Grenade
+2 | Smokegrenade
+3 | Molotov / Incendiary grenade
+4 | Decoy
+5 | Bomb
+6 | Say "xd"
+7 | Say "team chat pls"
+8 | Say "bingbangbingbangbingdiledingdingding"
+9 | Slot 9
 W | Forward
 A | Left
 S | Backward
 D | Right
-Q | Push-to-talk
-E | Buy Menu / Use
+Q | Flashbang
+E | Interact
 R | Reload
 T | Jump-Throw
-Z | Chat
-U | Team Chat
+U | Messagemode2 (Teamchat)
 I | Toggle Damage Log in top-left corner
+O | Toggle Netgraph
 P | FPS-Changer (60/Unlimited)
 F | Drop Weapon
 G | Radio 1
@@ -53,13 +57,13 @@ C | Secondary Weapon
 V | Knife
 B | Buy Menu
 M | Team selection
+ALT | Toggle Left- / Righthand
+BACKSPACE | Toggle Console
+ENTER | Messagemode (Allchat)
 TAB | Scoreboard
-Caps-Lock | Clear details
 LEFT SHIFT | Walk
 LEFT CTRL | Crouch
-ALT | Toggle Left- / Righthand
 SPACE | Jump
-F8 | Toggle Console
 
 ### Arrow
 Key | Action
@@ -87,10 +91,9 @@ Enter | Buy Defuse Kit
 ### Mouse
 Key | Action
 --- | ---
-Mouse 1 | Shot
+Mouse 1 | Shot and clear decals
 Mouse 2 | Zoom
-Mouse 3 | Inspect Weapon
-Mouse 4 | He-Grenade / Smoke / Flashbang / Molotov 
+Mouse 4 | Voice
 Mouse 5 | Quick Knife Weapon Switch
 Mouse Wheel Up / Down | Jump (Usefull for Bunnyhop)
 
@@ -110,6 +113,7 @@ Mouse Wheel Up / Down | Jump (Usefull for Bunnyhop)
 ## Changelog
 Version | Description
 --- | ---
+3.0.0 | Updated everything to my new better feeling
 2.0.0 | Slightly changed the HUD, crosshair, layout, network view, simple material and better sound settings.
 1.2.2 | Added / Removed new commands
 1.2.1 | Fixed the own language file so that CSGO can read it well.</br>Removed the previous UI due to the Panorama is live now.
