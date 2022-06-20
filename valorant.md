@@ -54,6 +54,7 @@ Show Map Region Names | never |
 | --- | --- |
 | First Person Handedness | right |
 | Network Buffering | minimum |
+
 *Everything is off expect for the following options:*
 - Show Mature Content
 - Show Corpses
@@ -130,6 +131,7 @@ Show Map Region Names | never |
 | --- | --- |
 | Party Voice Push To Talk Key | ` |
 | Team Voice Push To Talk Key | Left Alt |
+
 *Everything else is unbinded.*
 
 #### **Text Chat**
@@ -143,18 +145,21 @@ Show Map Region Names | never |
 | --- | --- | --- |
 | Ping (Tap) / Ping Wheel (Hold) | Middle Mouse Button |
 | Ping Wheel Hold Delay (milliseconds) | 130 |
+
 *Everything else is unbinded.*
 
 #### **Radio Commands Menu**
 | Option | Primary Key | Secondary Key |
 | --- | --- | --- |
 | Radio Commands Menu Index | Period |
+
 *Everything else is unbinded.*
 
 #### **Radio Commands Wheel**
 | Option | Primary Key | Secondary Key |
 | --- | --- | --- |
 | Radio Commands Wheel Index | Comma |
+
 *Everything else is unbinded.*
 
 ### Interface
@@ -164,6 +169,7 @@ Show Map Region Names | never |
 | Show Teammate Loadouts (Hold) |
 | Combat Report | ` |
 | Toggle Cursor | | Equals |
+
 *Everything else is pretty much default.*
 
 <p align='right'>(<a href='#top'>back to top</a>)</p>
@@ -192,6 +198,7 @@ Show Map Region Names | never |
 | Limit FPS Always | off |
 | Max FPS Always | 60 |
 | NVIDIA Reflex Low Latency | On + Boost |
+
 *Everything else is off.*
 
 ### Graphics Quality
