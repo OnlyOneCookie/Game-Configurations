@@ -1,19 +1,11 @@
 # Information
-**Last update:** 18th December 2018  
-**Version:** 2.0.0  
+**Last update:** 1st September 2023  
+**Version:** 3.0.0  
 
 ## Launch options
 ```
-+exec autoexec 
--console 
--high 
--novid 
--refresh 144 
--tickrate 128 
--language onlyonecookie 
--nojoy 
-```
-*Hint: The capitalized name in the option '+exec AUTOEXEC' should be the same name as the file name of your auto-execution.*  
++exec autoexec -console -high -novid -nod3d9ex -nojoy -softparticlesdefaultoff -refresh 144 -tickrate 128 -language onlyonecookie
+``` 
 
 ## Video and graphic settings
 **Resolution:** 1280x960  
@@ -22,7 +14,7 @@
 **Refresh Rate:** 144hz  
 
 ## Keyboard, Arrow, Numpad and Mouse Layout (In-Game)
-### Keyboard *(German Layout - QWERTZ)*
+### Keyboard *(US Layout - QWERTY)*
 Key | Action
 --- | ---
 0 | Slot 10
@@ -34,7 +26,7 @@ Key | Action
 6 | Say "xd"
 7 | Say "team chat pls"
 8 | Say "bingbangbingbangbingdiledingdingding"
-9 | Slot 9
+9 | Slot 12
 W | Forward
 A | Left
 S | Backward
@@ -91,7 +83,7 @@ Enter | Buy Defuse Kit
 ### Mouse
 Key | Action
 --- | ---
-Mouse 1 | Shot and clear decals
+Mouse 1 | Fire and clear decals
 Mouse 2 | Zoom
 Mouse 4 | Voice
 Mouse 5 | Quick Knife Weapon Switch
@@ -104,7 +96,7 @@ Mouse Wheel Up / Down | Jump (Usefull for Bunnyhop)
 ↳ **Folder:** `../Steam/steamapps/common/Counter-Strike: Global Offensive/resource/csgo_onlyonecookie.txt`  
 [Video Settings](https://github.com/OnlyOneCookie/Game-Configurations/blob/master/Files/CSGO/video.txt)  
 ↳ **Folder:** `../Steam/userdata/STEAMID3/730/local/cfg/video.txt`  
-[Razer Blackwidow X Layout](https://github.com/OnlyOneCookie/Game-Configurations/blob/master/Files/csgo.RazerSynapse)
+
 
 ## Tweaks
 [VibranceGUI](https://vibrancegui.com/)  
@@ -113,6 +105,7 @@ Mouse Wheel Up / Down | Jump (Usefull for Bunnyhop)
 ## Changelog
 Version | Description
 --- | ---
+3.0.2 | Removed unknown commands and unused aliases/scripts
 3.0.0 | Updated everything to my new better feeling
 2.0.0 | Slightly changed the HUD, crosshair, layout, network view, simple material and better sound settings.
 1.2.2 | Added / Removed new commands
