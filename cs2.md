@@ -35,8 +35,6 @@ Q | Flashbang
 E | Interact
 R | Reload
 U | Messagemode2 (Teamchat)
-I | Toggle Damage Log in top-left corner
-O | Toggle Netgraph
 P | FPS-Changer (60/Unlimited)
 F | Drop Weapon
 G | Radio 1
