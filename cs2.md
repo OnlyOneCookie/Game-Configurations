@@ -1,6 +1,6 @@
 # Information
-**Last update:** 1st September 2023  
-**Version:** 1.0.0  
+**Last update:** 3st September 2023  
+**Version:** 1.0.1  
 
 ## Launch options
 ```
@@ -8,7 +8,7 @@
 ``` 
 
 ## Video and graphic settings
-**Resolution:** 1280x960  
+**Resolution:** 1400x900  
 **Aspect Ratio:** 4:3  
 **Scaling:** Stretched / soonTM Black Bars or maybe staying with 16:9 / testing out during beta  
 **Refresh Rate:** 144hz  
@@ -26,7 +26,7 @@ Key | Action
 6 | Say "xd"
 7 | Say "team chat pls"
 8 | Say "bingbangbingbangbingdiledingdingding"
-9 | Slot 12
+9 | Medi Shot
 W | Forward
 A | Left
 S | Backward
@@ -34,6 +34,7 @@ D | Right
 Q | Flashbang
 E | Interact
 R | Reload
+T | Jump-Throw
 U | Messagemode2 (Teamchat)
 P | FPS-Changer (60/Unlimited)
 F | Drop Weapon
@@ -98,4 +99,5 @@ Mouse Wheel Up / Down | Jump (Usefull for Bunnyhop)
 ## Changelog
 Version | Description
 --- | ---
+1.0.1 | Add Jump-Throw bind 
 1.0.0 | Initial version
