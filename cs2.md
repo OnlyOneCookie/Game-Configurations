@@ -10,7 +10,7 @@
 ## Video and graphic settings
 **Resolution:** 1400x900  
 **Aspect Ratio:** 4:3  
-**Scaling:** Stretched / soonTM Black Bars or maybe staying with 16:9 / testing out during beta  
+**Scaling:** Stretched / soonTM Black Bars  
 **Refresh Rate:** 144hz  
 
 ## Keyboard, Arrow, Numpad and Mouse Layout (In-Game)
@@ -41,13 +41,14 @@ F | Drop Weapon
 G | Radio 1
 H | Radio 2
 J | Radio 3
-Y | Graffiti Spray
+Y | Run Jump-Throw
 X | Primary Weapon
 C | Secondary Weapon
 V | Knife
 B | Buy Menu
 M | Team selection
-Z | Clutch Mode Toggle
+N | Refund all
+Z | Spray Menu
 ` | Toggle Console
 ENTER | Messagemode (Allchat)
 TAB | Scoreboard
@@ -88,9 +89,9 @@ Mouse 5 | Quick Knife Weapon Switch
 Mouse Wheel Up / Down | Jump (Usefull for Bunnyhop)
 
 ## Configs
-[Auto-Execution](https://github.com/OnlyOneCookie/Game-Configurations/blob/master/Files/CSGO/autoexec.cfg)  
+[Auto-Execution](https://github.com/OnlyOneCookie/Game-Configurations/blob/master/Files/CS2/autoexec.cfg)  
 ↳ **Folder:** `../Steam/steamapps/common/Counter-Strike: Global Offensive\game\csgo\cfg\autoexec.cfg`  
-[Video Settings](https://github.com/OnlyOneCookie/Game-Configurations/blob/master/Files/CSGO/video.txt) *none yet*  
+[Video Settings](https://github.com/OnlyOneCookie/Game-Configurations/blob/master/Files/CS2/video.txt) *none yet*  
 ↳ **Folder:** `../Steam/userdata/STEAMID3/730/local/cfg/cs2_video.txt`  
 
 ## Tweaks
