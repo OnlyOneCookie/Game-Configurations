@@ -1,6 +1,6 @@
 # Information
-**Last update:** 3st September 2023  
-**Version:** 1.0.1  
+**Last update:** 9th October 2023  
+**Version:** 1.0.2  
 
 ## Launch options
 ```
@@ -99,5 +99,6 @@ Mouse Wheel Up / Down | Jump (Usefull for Bunnyhop)
 ## Changelog
 Version | Description
 --- | ---
+1.0.2 | Add movement fixes, refund all during buy-time and change color 0 to 2 (it's the new yellow)
 1.0.1 | Add Jump-Throw bind 
 1.0.0 | Initial version
