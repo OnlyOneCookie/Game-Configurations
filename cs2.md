@@ -1,23 +1,22 @@
 # Information
-**Last update:** 9th October 2023  
-**Version:** 1.0.2  
+**Last update:** 24th October 2024  
+**Version:** 1.0.3  
 
 ## Launch options
 ```
-+exec autoexec.cfg -console -high -novid -nod3d9ex -nojoy -refresh 144 -tickrate 128 
++exec autoexec.cfg -console -high -novid -nojoy -refresh 240 -freq 240 -tickrate 128 
 ``` 
 
 ## Video and graphic settings
-**Resolution:** 1400x900  
+**Resolution:** 1280x960  
 **Aspect Ratio:** 4:3  
-**Scaling:** Stretched / soonTM Black Bars  
-**Refresh Rate:** 144hz  
+**Scaling:** Stretched  
+**Refresh Rate:** 240hz  
 
 ## Keyboard, Arrow, Numpad and Mouse Layout (In-Game)
 ### Keyboard *(US Layout - QWERTY)*
 Key | Action
 --- | ---
-0 | Slot 10
 1 | He-Grenade
 2 | Smokegrenade
 3 | Molotov / Incendiary grenade
@@ -26,7 +25,7 @@ Key | Action
 6 | Say "xd"
 7 | Say "team chat pls"
 8 | Say "bingbangbingbangbingdiledingdingding"
-9 | Medi Shot
+9 | Radio call "getout"
 W | Forward
 A | Left
 S | Backward
@@ -38,9 +37,9 @@ T | Jump-Throw
 U | Messagemode2 (Teamchat)
 P | FPS-Changer (60/Unlimited)
 F | Drop Weapon
-G | Radio 1
-H | Radio 2
-J | Radio 3
+G | Radial Radio 1
+H | Radial Radio 2
+J | Radial Radio 3
 Y | Run Jump-Throw
 X | Primary Weapon
 C | Secondary Weapon
@@ -65,6 +64,7 @@ Left | Buy Flashbang
 Right | Buy Molotov / Incgrenade
 
 ### Numpad
+*No longer used due to no numpad but still in config.*
 Key | Action
 --- | ---
 Delete | Buy Vest
@@ -91,7 +91,7 @@ Mouse Wheel Up / Down | Jump (Usefull for Bunnyhop)
 ## Configs
 [Auto-Execution](https://github.com/OnlyOneCookie/Game-Configurations/blob/master/Files/CS2/autoexec.cfg)  
 ↳ **Folder:** `../Steam/steamapps/common/Counter-Strike: Global Offensive\game\csgo\cfg\autoexec.cfg`  
-[Video Settings](https://github.com/OnlyOneCookie/Game-Configurations/blob/master/Files/CS2/video.txt) *none yet*  
+[Video Settings](https://github.com/OnlyOneCookie/Game-Configurations/blob/master/Files/CS2/cs2_video.txt)   
 ↳ **Folder:** `../Steam/userdata/STEAMID3/730/local/cfg/cs2_video.txt`  
 
 ## Tweaks
@@ -100,6 +100,7 @@ Mouse Wheel Up / Down | Jump (Usefull for Bunnyhop)
 ## Changelog
 Version | Description
 --- | ---
+1.0.3 | Remove some binds which don't work anymore and add new aliases
 1.0.2 | Add movement fixes, refund all during buy-time and change color 0 to 2 (it's the new yellow)
 1.0.1 | Add Jump-Throw bind 
 1.0.0 | Initial version
