@@ -1,10 +1,10 @@
 # Information
-**Last update:** 24th October 2024  
-**Version:** 1.0.3  
+**Last update:** 4th February 2026  
+**Version:** 1.1.0  
 
 ## Launch options
 ```
-+exec autoexec.cfg -console -high -novid -nojoy -refresh 240 -freq 240 -tickrate 128 
++exec autoexec.cfg -console -high -novid -nojoy -refresh 240 -freq 240 -tickrate 128 +cl_forcepreload 1 +fps_max 0 +engine_low_latency_sleep_after_client_tick true 
 ``` 
 
 ## Video and graphic settings
@@ -26,6 +26,7 @@ Key | Action
 7 | Say "team chat pls"
 8 | Say "bingbangbingbangbingdiledingdingding"
 9 | Radio call "getout"
+0 | Say
 W | Forward
 A | Left
 S | Backward
@@ -48,12 +49,16 @@ B | Buy Menu
 M | Team selection
 N | Refund all
 Z | Spray Menu
+ALT | Switch Hands
 ` | Toggle Console
 ENTER | Messagemode (Allchat)
 TAB | Scoreboard
+DEL | Mute
 LEFT SHIFT | Walk
 LEFT CTRL | Crouch
 SPACE | Jump
+, | Buy Primary Ammo
+. | Buy Secondary Ammo
 
 ### Arrow
 Key | Action
@@ -70,27 +75,28 @@ Key | Action
 Delete | Buy Vest
 Enter | Buy Defuse Kit
 0 | Buy Vesthelm
-1 | Buy AK-47 / M4A4 / M4M1-S
+1 | Buy AK-47 / M4A4 / M4A1-S
 2 | Buy Galil / Famas
 3 | Buy UMP-45
 4 | Buy AWP
 5 | Buy SG-556 / AUG
 7 | Buy P250
-8 | Buy Tec-9 / CZ-75 / Five-SeveN
-9 | Buy Desert Deagle
+8 | Buy Tec-9 / Five-SeveN
+9 | Buy Desert Eagle
 
 ### Mouse
 Key | Action
 --- | ---
 Mouse 1 | Fire
 Mouse 2 | Zoom
+Mouse 3 | Player Ping
 Mouse 4 | Voice
 Mouse 5 | Quick Knife Weapon Switch
-Mouse Wheel Up / Down | Jump (Usefull for Bunnyhop)
+Mouse Wheel Up / Down | Jump (Useful for Bunnyhop)
 
 ## Configs
 [Auto-Execution](https://github.com/OnlyOneCookie/Game-Configurations/blob/master/Files/CS2/autoexec.cfg)  
-↳ **Folder:** `../Steam/steamapps/common/Counter-Strike: Global Offensive\game\csgo\cfg\autoexec.cfg`  
+↳ **Folder:** `../Steam/steamapps/common/Counter-Strike Global Offensive/game/csgo/cfg/autoexec.cfg`  
 [Video Settings](https://github.com/OnlyOneCookie/Game-Configurations/blob/master/Files/CS2/cs2_video.txt)   
 ↳ **Folder:** `../Steam/userdata/STEAMID3/730/local/cfg/cs2_video.txt`  
 
@@ -100,6 +106,7 @@ Mouse Wheel Up / Down | Jump (Usefull for Bunnyhop)
 ## Changelog
 Version | Description
 --- | ---
+1.1.0 | Standardized config formatting (numeric values in quotes, booleans without quotes), removed duplicate commands, improved section organization and consistency
 1.0.3 | Remove some binds which don't work anymore and add new aliases
 1.0.2 | Add movement fixes, refund all during buy-time and change color 0 to 2 (it's the new yellow)
 1.0.1 | Add Jump-Throw bind 
